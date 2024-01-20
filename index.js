@@ -281,13 +281,6 @@ webApp.post('/getintent', async (req, res) => {
   res.send(responseData);
 });
 
-// webApp.post('/createtIntent',(req,res) =>{
-// let displayName = req.displayName;
-// let response = createIntent(displayName);
-
-// res.send(response);
-
-// });
 
 
 webApp.post('/addTrainingPhrases', async (req, res) => {
@@ -332,6 +325,16 @@ webApp.post('/webhook', async (req, res) => {
 webApp.get('/pg', async (req, res) => {
   try {
     const result = await pool.query('SELECT * FROM dialogflow."missingword" ORDER BY ID ASC');
+    res.send(result.rows);
+  } catch (error) {
+    console.error('Error executing query', error);
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+});
+
+webApp.get('/historyGraph', async (req, res) => {
+  try {
+    const result = await pool.query('SELECT COUNT(intent) as log,intent FROM dialogflow.history Group by intent');
     res.send(result.rows);
   } catch (error) {
     console.error('Error executing query', error);
