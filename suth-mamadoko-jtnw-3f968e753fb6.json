@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "suth-mamadoko-jtnw",
+  "private_key_id": "3f968e753fb6c1d64b83eae3f89ae9e6bbcd93c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB9nui1T3AFgXo\nns0ogfRS9tn5mbqFXMvzzvqDXHKJD46RaXeoc/rJwdUtCSQeCFCE4JOWMWFenO/2\ni+3kzSwRvGK3dHlhJd+n3R/czWq/noO5HKpUlcx9dyoutK2Jj4fFj5IwfBRXOW73\nzygJTZ0txGoKP/i28SNsMYdfsoP190dUYRhD8BBRGADuDPMbVvZrJPr59EYR8rzN\nEKrzyaAL+qV9ZO83GLc0+kfWLeGPMUDH1pq3w5ZRCIMQZDPUITeQuECCftjRgwM8\nya2aHZPGL52Y3dh5MhoSS6Kr4L9vX7KWj2ejcw3BmJc3by4jnuPIJ02VF5F/uN5m\nRYo60rm3AgMBAAECggEAWEMwDrCHqYW8CZdd112Pj0NKfIUCdhZ8rsUUhTtH2Wvt\nXelG7K5eRHpCZfx/ZXU2IslJD7MH0nSK07/oMNJWh/mYWFAVvenspSgADEujlG/v\nFAjhz5zdEYjs9pT8VRkt2O5UwWBtJyX5A6ZOWzFo4X88G87xgFop2t2M8zS6TO3/\nC3jkqbOVVNSquHpqWpEwU7oS9wa7LMnKKoHT5AaC+fr1x8zDbmQyWdPVy/4D+l1R\naowWep62XVKnzDWcqr0UfjcDTvl57f3l+RAijwZKVVRJzELXnM/lmwAZ/Zd5e/Tb\n4AP3i6Ae8JW8nW8853lKZnDazZGAGLtj5xFQfRvfiQKBgQDp0Bl8pk2kKjfkYbfz\nmzMKJQEsGTtoOu/l+HSeD+dOGQGatAAL8o/04FczN36GZrgJry1jMpIs+3Q7CP+d\nLKRAj7+r1by/pXL+1AspqYBq8cjxEmP/AjNlMUF9jcQ14GCFS2HYq3wcAgP3Dmva\nIzlWoEdaX9W4TpNhE0XHlbAnzwKBgQDUXlNXWYaiqFDAfr4AH3/5xwxqLB1jotqx\nDs0oHbC8+vX8/WIqJCUtSeAPo2Ud1qSO7z0AO4JyGkjC8jMScWBB77VS7vX25EZo\nEjcfC4fdDn46SHek+dNSt1lb/ofhknqfUmptjvQg0DcPrwRHLwLW38zh8i69HZih\nq3TiyxLhmQKBgQCdppgYyRVe1KydDBp5YjMW6v6QWm8JB3xMJquTDAwdR5UiV64U\nYDgal82UFh30x3vd48UJtsaDGAU17QpVUw1pDsPhPBupaQhRtG3WaJjTAzZG/ex4\nvGYlHAIZgyZCYYkTN1HBQ1dKlz1PLuUfz1JRC38w+59iR3DuKo2JVm/RVwKBgEtD\n/u+XWCMv2ibPBJHQmC+zPxAmAGh+oFleMJHGLAxeOW5nczISS2bIpvOD6mNv3jSW\nT51Uef/sltsYsccYjY/w3+e7r0rITre1tPl4wbcz2sLXSigbLq1DNBVpmUj1/CWZ\nNQUNRDKY+NrDIZYE8FGtUdTGW5BE/AJYXP3AEToJAoGAOS5S/gWMKDeIndsDp164\nJ4buUrIV9wlVSy4uz8cfj1mXtz7JBxiWOAff456i/jTmBMnBXNMS6mYefLcwawEG\nxY1xa1RCPItRtZ0/It6Y9Mjeoe4IvptW+Esg6+xpp8TvsWxMVgB68xm54ibjf1Lu\nAuqweZJ68Fx6H9+hYNd0VQs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-line-chat@suth-mamadoko-jtnw.iam.gserviceaccount.com",
+  "client_id": "104499027586916388102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-line-chat%40suth-mamadoko-jtnw.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
